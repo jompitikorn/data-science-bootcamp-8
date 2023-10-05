@@ -14,3 +14,5 @@ My data portfolio for data analyst role
   - Essential Statistics for Data Analyst
   - Essential Machine Learning for Data Analyst
   - Python programming
+
+You can find me on linkedln https://www.linkedin.com/in/pitikorn-kongthong-893aba270/
